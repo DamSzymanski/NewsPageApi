@@ -13,7 +13,8 @@ NewsPageApi jest częścią projektu, którego częścią frontendową jest [New
 
 1. Otwórz folder projektu i użyj komendy: `npm install`
 2. Użyj własnego pliku serviceWorker.json, który pobrać można z Firebase Console
-3. Uruchom server poprzez: `npm run dev`
+3. W tokenService.js ustawić url do swojej bazy Firebase.
+4. Uruchom server poprzez: `npm run dev`
 
 ## Technologie
 * NodeJS
